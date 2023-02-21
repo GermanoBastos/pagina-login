@@ -1,0 +1,17 @@
+.container {
+  margin-top: 300px;
+  /* background-color: rgb(215, 215, 215); */
+  width: 700px;
+  height: 400px;
+  
+}
+.btn{
+  float: right;
+  margin-right: 10px;
+  position: relative;
+
+}
+.recover-pass{
+  float: left;
+  margin-left: 10px;
+}
